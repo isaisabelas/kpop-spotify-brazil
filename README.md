@@ -1,4 +1,4 @@
-# Kpop - Grupos Mais Populares no Spotify Brasil
+# Kpop - Grupos Mais Populares no Spotify Brasil :dizzy:
 
 <h2>Objetivo :pushpin:</h2>
 <p>Este projeto tem como objetivo identificar os grupos de Kpop mais populares no Spotify Brasil e mapear as seguintes informações:</p>
@@ -31,6 +31,13 @@
     </li>
 </ol>
 <p>Essa estrutura de dados permite visualizar e manipular todas as informações de maneira eficiente para responder ao objetivo inicial.</p>
+
+<h2>Conteúdo :memo: </h2>
+<ul>
+    <li><a href="https://github.com/isaisabelas/kpop-spotify-brazil/tree/main/spotify_requests">Requests na API do Spotify com Python</a></li>
+    <li><a href="https://github.com/isaisabelas/kpop-spotify-brazil/tree/main/json_data_files">Dados obtidos em JSON</a></li>
+    <li><a href="https://github.com/isaisabelas/kpop-spotify-brazil/blob/main/kpop_br_popularity.ipynb">Análise</a></li>
+</ul>
 
 <h2>Tecnologias Utilizadas :paperclip: </h2>
 <ul>
