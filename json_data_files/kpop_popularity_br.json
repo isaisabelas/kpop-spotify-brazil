@@ -1,0 +1,232 @@
+[
+    {
+        "name": "NewJeans",
+        "popularity": 72.1, 
+        "company": "N/A", 
+        "concert in brazil": "no"
+    },
+    {
+        "name": "Stray Kids",
+        "popularity": 71.2, 
+        "company": "JYP Entertainment", 
+        "concert in brazil": "yes"
+    },
+    {
+        "name": "BTS",
+        "popularity": 70.6,
+        "company": "HYBE", 
+        "concert in brazil": "yes"
+    },
+    {
+        "name": "LE SSERAFIM",
+        "popularity": 69.4, 
+        "company": "HYBE", 
+        "concert in brazil": "no"
+    },
+    {
+        "name": "BABYMONSTER",
+        "popularity": 68.8, 
+        "company": "YG Entertainment", 
+        "concert in brazil": "no"
+    },
+    {
+        "name": "aespa",
+        "popularity": 68.0,
+        "company": "SM Entertainment", 
+        "concert in brazil": "yes"
+    },
+    {
+        "name": "ENHYPEN",
+        "popularity": 67.4, 
+        "company": "HYBE", 
+        "concert in brazil": "no"
+    },
+    {
+        "name": "BLACKPINK",
+        "popularity": 66.6, 
+        "company": "YG Entertainment", 
+        "concert in brazil": "no"
+    },
+    {
+        "name": "IVE",
+        "popularity": 66.3, 
+        "company": "Starship Entertainment", 
+        "concert in brazil": "yes"
+    },
+    {
+        "name": "TWICE",
+        "popularity": 65.9, 
+        "company": "JYP Entertainment", 
+        "concert in brazil": "yes"
+    },
+    {
+        "name": "ILLIT",
+        "popularity": 64.6, 
+        "company": "HYBE", 
+        "concert in brazil": "no"
+    },
+    {
+        "name": "KISS OF LIFE",
+        "popularity": 64.1, 
+        "company": "S2 Entertainment", 
+        "concert in brazil": "no"
+    },
+    {
+        "name": "BIGBANG",
+        "popularity": 63.9, 
+        "company": "N/A", 
+        "concert in brazil": "no"
+    },
+    {
+        "name": "(G)I-DLE",
+        "popularity": 62.2, 
+        "company": "Cube Entertainment", 
+        "concert in brazil": "no"
+    },
+    {
+        "name": "ITZY",
+        "popularity": 58.7, 
+        "company": "JYP Entertainment", 
+        "concert in brazil": "no"
+    },
+    {
+        "name": "Kpoint",
+        "popularity": 29.4
+    },
+    {
+        "name": "Kpomoyo",
+        "popularity": 23.8
+    },
+    {
+        "name": "Kpoobi",
+        "popularity": 21.25
+    },
+    {
+        "name": "kpop but lofi",
+        "popularity": 20.6
+    },
+    {
+        "name": "LOS KPOS",
+        "popularity": 17.4
+    },
+    {
+        "name": "Kponi Roy",
+        "popularity": 16.0
+    },
+    {
+        "name": "K'poral Chris",
+        "popularity": 6.4
+    },
+    {
+        "name": "Kpop Dr\u00f8mme",
+        "popularity": 6.0
+    },
+    {
+        "name": "Original Broadway Cast of KPOP",
+        "popularity": 2.9
+    },
+    {
+        "name": "Kpop girl",
+        "popularity": 2.0
+    },
+    {
+        "name": "Kpoppa",
+        "popularity": 0.7
+    },
+    {
+        "name": "Top Kpop",
+        "popularity": 0.14285714285714285
+    },
+    {
+        "name": "Kpop Simahoy",
+        "popularity": 0
+    },
+    {
+        "name": "Kpop",
+        "popularity": 0
+    },
+    {
+        "name": "KPOP HITS HUB",
+        "popularity": 0.0
+    },
+    {
+        "name": "kpopharmony",
+        "popularity": 0.0
+    },
+    {
+        "name": "Kpop",
+        "popularity": 0
+    },
+    {
+        "name": "KPOPGAKUEN",
+        "popularity": 0.0
+    },
+    {
+        "name": "Kpop Type Beat Maker",
+        "popularity": 0.0
+    },
+    {
+        "name": "kPOP",
+        "popularity": 0.0
+    },
+    {
+        "name": "The K.Pop Band",
+        "popularity": 0.0
+    },
+    {
+        "name": "Josh Kpozehouen",
+        "popularity": 0
+    },
+    {
+        "name": "Kpoppa",
+        "popularity": 0
+    },
+    {
+        "name": "Kpop",
+        "popularity": 0
+    },
+    {
+        "name": "KPOP Seoul",
+        "popularity": 0.0
+    },
+    {
+        "name": "kpopkr\u00a1st",
+        "popularity": 0.0
+    },
+    {
+        "name": "Kpopcorn",
+        "popularity": 0.0
+    },
+    {
+        "name": "KPOPPA",
+        "popularity": 0
+    },
+    {
+        "name": "Lil Kpopp",
+        "popularity": 0
+    },
+    {
+        "name": "kiran Kpop",
+        "popularity": 0.0
+    },
+    {
+        "name": "Lil Kpopp",
+        "popularity": 0
+    },
+    {
+        "name": "URBAN KPOP",
+        "popularity": 0.0
+    },
+    {
+        "name": "Tyson T. Kpop Beats",
+        "popularity": 0.0
+    },
+    {
+        "name": "CMC AI Kpop Pro",
+        "popularity": 0.0
+    },
+    {
+        "name": "Ingrid Kpopov",
+        "popularity": 0.0
+    }
+]

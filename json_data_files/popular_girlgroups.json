@@ -1,0 +1,57 @@
+[
+{
+    "name": "New Jeans",
+    "popularity": "72.1"
+},
+
+{
+    "name": "Lesserafim",
+    "popularity": "69.4"
+},
+
+{
+    "name": "BABYMONSTER",
+    "popularity": "68.8"
+},
+
+{
+    "name":"aespa",
+    "popularity":"68.0"
+},
+
+{
+    "name":"BLACKPINK",
+    "popularity":"66.6"
+},
+
+{
+    "name":"IVE",
+    "popularity": "66.3"
+},
+
+{
+    "name":"TWICE",
+    "popularity": "65.9"
+},
+
+{
+    "name": "ILLIT",
+    "popularity": "64.6"
+},
+
+{
+    "name":"KISS OF LIFE",
+    "popularity": "64.1"
+},
+
+{
+    "name": "(G)I-DLE",
+    "popularity": "62.2"
+},
+
+{
+    "name": "ITZY",
+    "popularity": "58.7"
+}
+
+]
